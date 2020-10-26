@@ -1,0 +1,8 @@
+2020-10-26 15:45:17.531 +08:00 [INF] url:/api/auth/token?name=abc&pass=123456	params:{"name":"abc","pass":"123456"}
+2020-10-26 15:45:37.406 +08:00 [INF] url:/api/Values/Get	params:{}
+2020-10-26 15:46:52.188 +08:00 [INF] url:/api/auth/token?name=abcd&pass=123456	params:{"name":"abcd","pass":"123456"}
+2020-10-26 15:46:52.197 +08:00 [ERR] 请求地址：/api/auth/token?name=abcd&pass=123456, 参数:, 错误信息：账号或密码错误
+2020-10-26 15:46:58.494 +08:00 [INF] url:/api/auth/token?name=abc&pass=123456	params:{"name":"abc","pass":"123456"}
+2020-10-26 15:47:04.644 +08:00 [INF] url:/api/auth/token?name=abcd&pass=123456	params:{"name":"abcd","pass":"123456"}
+2020-10-26 15:47:04.645 +08:00 [ERR] 请求地址：/api/auth/token?name=abcd&pass=123456, 参数:, 错误信息：账号或密码错误
+2020-10-26 15:47:07.529 +08:00 [INF] url:/api/auth/token?name=abc&pass=123456	params:{"name":"abc","pass":"123456"}
