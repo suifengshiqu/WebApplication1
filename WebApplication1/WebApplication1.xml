@@ -4,5 +4,20 @@
         <name>WebApplication1</name>
     </assembly>
     <members>
+        <member name="F:WebApplication1.Models.TestEnum.Normal">
+            <summary>
+            正常
+            </summary>
+        </member>
+        <member name="F:WebApplication1.Models.TestEnum.Added">
+            <summary>
+            已添加
+            </summary>
+        </member>
+        <member name="F:WebApplication1.Models.TestEnum.Deleted">
+            <summary>
+            已删除
+            </summary>
+        </member>
     </members>
 </doc>
